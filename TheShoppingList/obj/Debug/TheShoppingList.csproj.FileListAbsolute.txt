@@ -1,0 +1,21 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\bin\Debug\TheShoppingList.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\bin\Debug\TheShoppingList.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\bin\Debug\TheShoppingList.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.MainForm.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment5\TheShoppingList\TheShoppingList\obj\Debug\TheShoppingList.csprojAssemblyReference.cache
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\TheShoppingList.exe.config
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\TheShoppingList.exe
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\TheShoppingList.pdb
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.csproj.AssemblyReference.cache
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.csproj.SuggestedBindingRedirects.cache
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.MainForm.resources
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.Properties.Resources.resources
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.csproj.GenerateResource.cache
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.exe
+C:\Users\wood1\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\TheShoppingList.pdb

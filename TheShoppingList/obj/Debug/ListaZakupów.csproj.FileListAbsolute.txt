@@ -1,0 +1,33 @@
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\ListaZakupów.exe.config
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\ListaZakupów.exe
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\bin\Debug\ListaZakupów.pdb
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.csproj.AssemblyReference.cache
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.csproj.SuggestedBindingRedirects.cache
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.Properties.Resources.resources
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.csproj.GenerateResource.cache
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.csproj.CoreCompileInputs.cache
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.exe
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.pdb
+C:\Users\awika\Desktop\TheShoppingListWindowsForm-master\TheShoppingList\obj\Debug\ListaZakupów.MainForm.resources
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.exe.config
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.exe
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.pdb
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.AssemblyReference.cache
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.SuggestedBindingRedirects.cache
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.MainForm.resources
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.Properties.Resources.resources
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.GenerateResource.cache
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.CoreCompileInputs.cache
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.exe
+C:\Users\damty\Downloads\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.pdb
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.exe.config
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.exe
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\bin\Debug\ListaZakupów.pdb
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.AssemblyReference.cache
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.MainForm.resources
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.Properties.Resources.resources
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.GenerateResource.cache
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.CoreCompileInputs.cache
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.exe
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.pdb
+C:\Users\damty\OneDrive\Desktop\Projekt programowanie\Lista Zakupów\TheShoppingList\obj\Debug\ListaZakupów.csproj.SuggestedBindingRedirects.cache
